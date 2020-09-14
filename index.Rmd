@@ -1,0 +1,12 @@
+---
+output: html_document
+---
+
+<br><br><br>
+<center>
+
+# Hackathon + Sponsored Talks [23-25.09.2020](https://whyr2020.github.io/plan/23_25/)     
+
+# Lectures + Discussion Panels [26-27.09.2020](https://whyr2020.github.io/plan/26_27/)
+
+</center>
